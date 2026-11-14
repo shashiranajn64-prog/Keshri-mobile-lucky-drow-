@@ -1,0 +1,6 @@
+{
+  "name": "KESHRI MOBILE AND ELECTRONIC - Lucky Draw Spin Wheel",
+  "description": "Keshri Mobile and Electronic shop Lucky Draw Spin Wheel and Customer Entry system with automatic price-slab spins and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
